@@ -3,3 +3,6 @@ Selam merhaba nasılsın..
 Versiyon2
 ------------------------
 versiyon3 gör beni
+--------------------
+İptal et beni 
+Deneme yanılma yöntemiyyle kullanabiliriz.
